@@ -1,0 +1,9 @@
+[user]
+	name = Veikka
+	email = veikka.niemi@aalto.fi
+[init]
+	defaultBranch = main
+[pull]
+	rebase = false
+[core]
+	editor = code --wait
