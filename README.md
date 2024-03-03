@@ -7,13 +7,13 @@ Aim is to add all sorts of useful stuff related to configurations (as a backup a
 
 ## ToDo
 
-- [] Add more config files
+- [ ] Add more config files
     - Bash profile
         - Separately aliases, functions, etc?
     - Some basic vim setup if neovim is not an option?
-- [] Create 'install.sh' or similar to easily get things going with Stow in another machine
+- [ ] Create 'install.sh' or similar to easily get things going with Stow in another machine
     - Also fonts, plugins needed by neovim (which are???) and stuff, I have to think about all the stuff I've configured so far
-- [] Look at other dotfile setups and replicate what looks nice :person_fencing:
+- [ ] Look at other dotfile setups and replicate what looks nice :person_fencing:
 
 
 
