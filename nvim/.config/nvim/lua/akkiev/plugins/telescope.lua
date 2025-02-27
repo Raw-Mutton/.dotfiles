@@ -1,5 +1,5 @@
 return {
-	'nvim-telescope/telescope.nvim', tag = '0.1.5',
+	'nvim-telescope/telescope.nvim', tag = '0.1.8',
 -- or                              , branch = '0.1.x',
       dependencies = { 
 	'nvim-lua/plenary.nvim',
@@ -22,7 +22,7 @@ return {
 	    }
 	  })
 
-	  telescope.load_extension("fzf");
+	  --telescope.load_extension("fzf");
 
 	  -- set keymaps
           local keymap = vim.keymap -- for conciseness
