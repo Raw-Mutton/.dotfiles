@@ -77,6 +77,11 @@ return {
       on_attach = on_attach,
     })
 
+    lspconfig["tsserver"].setup({
+     on_attach = on_attach,
+     capabilities = capabilities,
+    })
+
     -- configure lua server
     lspconfig["lua_ls"].setup({
       capabilities = capabilities,
